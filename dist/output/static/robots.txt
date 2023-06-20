@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://links.xap3x.gq/sitemap-index.xml
